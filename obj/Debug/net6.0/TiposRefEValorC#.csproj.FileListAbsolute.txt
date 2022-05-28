@@ -1,0 +1,15 @@
+C:\Users\efern\Documents\TiposRefEValorC#\bin\Debug\net6.0\TiposRefEValorC#.exe
+C:\Users\efern\Documents\TiposRefEValorC#\bin\Debug\net6.0\TiposRefEValorC#.deps.json
+C:\Users\efern\Documents\TiposRefEValorC#\bin\Debug\net6.0\TiposRefEValorC#.runtimeconfig.json
+C:\Users\efern\Documents\TiposRefEValorC#\bin\Debug\net6.0\TiposRefEValorC#.dll
+C:\Users\efern\Documents\TiposRefEValorC#\bin\Debug\net6.0\TiposRefEValorC#.pdb
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.csproj.AssemblyReference.cache
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.AssemblyInfoInputs.cache
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.AssemblyInfo.cs
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.csproj.CoreCompileInputs.cache
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.dll
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\refint\TiposRefEValorC#.dll
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.pdb
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\TiposRefEValorC#.genruntimeconfig.cache
+C:\Users\efern\Documents\TiposRefEValorC#\obj\Debug\net6.0\ref\TiposRefEValorC#.dll
